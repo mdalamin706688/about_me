@@ -97,7 +97,7 @@ Here are some highlighted projects from my portfolio:
 
 1. https://app.tradehat.com/
 2. https://www.sellzzy.com/
-3. wwww.playpac.cl
+3. www.playpac.cl
 
 Feel free to check out the [full list of projects](#) for more details.
 
