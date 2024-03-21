@@ -98,6 +98,7 @@ Here are some highlighted projects from my portfolio:
 1. https://app.tradehat.com/
 2. https://www.sellzzy.com/
 3. www.playpac.cl
+4. https://atlacarte.com/index.html
 
 Feel free to check out the [full list of projects](#) for more details.
 
@@ -106,8 +107,7 @@ Feel free to check out the [full list of projects](#) for more details.
 If you have any questions or would like to collaborate, feel free to reach out to me via:
 
 - GitHub: https://github.com/mdalamin706688
-- LinkedIn: https://www.linkedin.com/in/mdalamin706688/
 - Email: mdalamin706688@gmail.com
-- Portfolio: https://md-alamin-haque.web.app/
+
 
 Thank you for visiting my GitHub repository!
